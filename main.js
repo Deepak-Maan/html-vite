@@ -30,7 +30,7 @@ document.querySelector("#app").innerHTML = `
   <div class="row">
       <div class="col-lg-4 col-md-6 pt-4 pt-md-0">
           <div class="d-flex flex-column w-100">
-              <img class="w-100" src="./assets/images/chairImg.png" alt="chairImg">
+             
               <div class="border-card">
                   <div class="d-flex gap-3 pt-3">
                       <button class="bg-grey text-grey secondary-btn">Tech</button>
@@ -50,7 +50,7 @@ document.querySelector("#app").innerHTML = `
       </div>
       <div class="col-lg-4 col-md-6 pt-4 pt-md-0">
           <div class="d-flex flex-column w-100">
-              <img class="w-100" src="./assets/images/camera.png" alt="camera">
+
               <div class="border-card">
                   <div class="d-flex gap-3 pt-3">
                       <button class="bg-grey text-grey secondary-btn">Tech</button>
@@ -66,7 +66,6 @@ document.querySelector("#app").innerHTML = `
       </div>
       <div class="col-lg-4 col-md-6 pt-4 pt-lg-0">
           <div class="d-flex flex-column w-100">
-              <img class="w-100" src="./assets/images/cameraInMountains.png" alt="cameraInMountains">
               <div class="border-card">
                   <div class="d-flex gap-3 pt-3">
                       <button class="bg-grey text-grey secondary-btn">Tech</button>
